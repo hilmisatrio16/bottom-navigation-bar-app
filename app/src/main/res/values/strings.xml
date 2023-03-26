@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bottom Navigation Bar App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_min">btn min</string>
+    <string name="btn_add">btn add</string>
+    <string name="order_amount">1</string>
+    <string name="smartphone">Smartphone</string>
+    <string name="product_category">product category</string>
+    <string name="tokomeriah">Tokomeriah</string>
+    <string name="skincare">Skincare</string>
+    <string name="electronic">Electronic</string>
+    <string name="cart">Cart</string>
+    <string name="product_shoes">Heiden Heritage [HRTG] - VENDAGE TS | Sneakers | Sepatu Pria</string>
+    <string name="price_sepatu">Rp. 300.000</string>
+    <string name="product_smartphone">Xiaomi Official POCO M5 (4/64GB) | (4/128GB) Helio G99 50MP AI</string>
+    <string name="price_smartphone">Rp. 2.300.000</string>
+    <string name="product_watch">CURREN 8106 Jam Tangan Pria Analog Stainless Steel CURRENOS</string>
+    <string name="price_watch">Rp. 400.000</string>
+    <string name="product_skincare">Pond\'s Men Face Scrub Lightning Oil Clear 50 gr</string>
+    <string name="price_skincare">Rp. 33.000</string>
+</resources>
